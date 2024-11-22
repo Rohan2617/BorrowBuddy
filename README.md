@@ -4,7 +4,7 @@
     <img src="./resources/images/logo/logo.svg" style="width: 600px;">
 </p>
 
-<h1 style="text-align: center;">Bookopia</h1>
+<h1 style="text-align: center;">BorrowBuddy</h1>
 
 ## Build and Run
 
